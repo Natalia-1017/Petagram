@@ -7,4 +7,14 @@
         android:icon="@drawable/ic_estrella"
         android:title="Favoritos"
         app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_contacto"
+        android:title="Contacto"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_acerca"
+        android:title="Acerca de"
+        app:showAsAction="never" />
 </menu>
